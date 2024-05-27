@@ -16,6 +16,8 @@ background-color: #5f62ce;
   align-items: center;
   height: 100vh;
   background-image:url(../img/1492635260_pravilnoe-obuchenie1.jpg);
+  
+  background-size: cover;
 }
 
 .styled-list {
